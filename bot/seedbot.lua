@@ -226,30 +226,42 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {212990316},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[avast v6.2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/Arashalone/avast-v6.2-bot/
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+avast team member's:
+👇👇👇
+Owner: @arashnomiri
+⭕️⭕️⭕️
+Member's:
+✅✅✅
+🌀 @Oo_SaRdAr_marginam_revale_oO
+🌀 @Mosy15
+🌀 @Mersad_nph
+🌀 @redteam_01_30
+🌀 @Best_hacker_in_world
+🌀 @mohammad007gorgan
+🌀 @hacker_unknewn
+🌀 @Alireza_avast
+🌀 @ToTmy
+🌀 @for_for
+🌀 @ThisIsiliya
+🌀 @R_A_D_D_Y
+🌀 @De_SilenT_aD
+🌀 @Hossein_avast
+🌀 @genisysTerminator
+🌀 @Allwen
+🌀 @Nafase_sinam
+🌀 @Pouya_X_Boy
+🌀 @iq_plus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+@avast_team
 ]],
     help_text_realm = [[
 Realm Commands:
